@@ -5,7 +5,7 @@ Full Stack Web Developer
 ------------------------
 
 * 🌍  I'm based in Canada
-* 🖥️  See my portfolio at [Parthiv Akbari](http://www.linkedin.com/in/parthiv-akbari/)
+* 🖥️  See my portfolio at [Parthiv Akbari](https://parth-5097.github.io/parthiv-portfolio/)
 * ✉️  You can contact me at [parthiv.akbari11@gmail.com](mailto:parthiv.akbari11@gmail.com)
 * 🚀  I'm currently working on [Adaptive Consensus Algorithm](http://github.com/parth-5097)
 * 🧠  I'm learning Blockchain development
